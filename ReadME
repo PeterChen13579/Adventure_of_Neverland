@@ -1,3 +1,3 @@
-# Introduction
+(#some-markdown-heading)
 This project is made collaborating with a friend. Adventure of Neverland is a Java GUI 2D shooting game with a twist... When you don't move, nothing moves, including time and projectiles; when you move, time moves again. This game utilizes free sprites that we found on the internet and customized so we have the right sprite size for our project. 
 Link to a demonstration video: https://www.youtube.com/watch?v=uhFRNaolvD8&feature=emb_title&ab_channel=PeterChen
